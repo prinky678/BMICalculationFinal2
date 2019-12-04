@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMICalculation</string>
+    <string name="btnReset">Reset</string>
+    <string name="btnCalculate">Calculate</string>
+    <string name="txtWeight">Enter Weight (kg):</string>
+    <string name="txtHeight">Enter Height (m):</string>
+    <string name="txtBMI">BMI:</string>
+    <string name="lblBMI" />
+    <string name="image" />
+    <string name="txtStatus" />
+</resources>
